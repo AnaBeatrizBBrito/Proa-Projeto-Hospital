@@ -1,2 +1,2 @@
-# Proa-Projetos-Hospital
+# Proa-Projeto-Hospital
 Projetos propostos no curso
